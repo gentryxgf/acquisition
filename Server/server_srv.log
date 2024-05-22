@@ -1,0 +1,183 @@
+{"level":"INFO","time":"2024-05-18T00:10:03.058+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-18T00:10:03.074+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-18T00:10:03.075+0800","caller":"Server/main.go:69","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-18T00:10:03.076+0800","caller":"Server/main.go:89","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-18T00:18:07.715+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-18T00:18:07.730+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-18T00:18:07.732+0800","caller":"Server/main.go:69","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-18T00:18:07.733+0800","caller":"Server/main.go:89","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-18T00:19:48.874+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-18T00:19:48.892+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-18T00:19:48.893+0800","caller":"Server/main.go:69","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-18T00:19:48.893+0800","caller":"Server/main.go:89","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-18T00:21:11.093+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-18T00:21:11.108+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-18T00:21:11.111+0800","caller":"Server/main.go:69","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-18T00:21:11.112+0800","caller":"Server/main.go:89","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-18T09:27:36.809+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-18T09:27:36.927+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-18T09:27:36.940+0800","caller":"redis/redis.go:30","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-18T09:27:36.940+0800","caller":"redis/redis.go:36","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-18T09:27:36.941+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-18T09:27:36.942+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-18T10:10:54.373+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-18T10:10:54.679+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-18T10:10:54.681+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-18T10:10:54.681+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-18T10:10:54.682+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-18T10:10:54.683+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-18T10:13:38.869+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-18T10:13:38.884+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-18T10:13:38.885+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-18T10:13:38.885+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-18T10:13:38.886+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-18T10:13:38.887+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-18T10:18:31.035+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-18T10:18:31.055+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-18T10:18:31.060+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-18T10:18:31.061+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-18T10:18:31.062+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-18T10:18:31.063+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-18T10:20:47.084+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-18T10:20:47.100+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-18T10:20:47.101+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-18T10:20:47.101+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-18T10:20:47.102+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-18T10:20:47.102+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-18T10:27:22.688+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-18T10:27:22.707+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-18T10:27:22.708+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-18T10:27:22.708+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-18T10:27:22.709+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-18T10:27:22.710+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-18T10:30:37.298+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-18T10:30:37.313+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-18T10:30:37.314+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-18T10:30:37.315+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-18T10:30:37.316+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-18T10:30:37.316+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-18T10:32:59.042+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-18T10:32:59.058+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-18T10:32:59.059+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-18T10:32:59.059+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-18T10:32:59.061+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-18T10:32:59.062+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-19T23:04:46.422+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-19T23:04:46.442+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-19T23:04:46.446+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-19T23:04:46.446+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-19T23:04:46.447+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-19T23:04:46.448+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-19T23:15:16.411+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-19T23:15:16.426+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-19T23:15:16.428+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-19T23:15:16.428+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-19T23:15:16.429+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-19T23:15:16.431+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-20T12:30:47.858+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-20T12:30:47.972+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-20T12:30:47.973+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-20T12:30:47.973+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-20T12:30:47.975+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-20T12:30:47.975+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"ERROR","time":"2024-05-20T12:31:03.916+0800","caller":"handler/server.go:100","msg":"UploadLog.mysql.CreateLog error:","error":"invalid argument"}
+{"level":"INFO","time":"2024-05-20T12:35:09.234+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-20T12:35:09.253+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-20T12:35:09.254+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-20T12:35:09.255+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-20T12:35:09.256+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-20T12:35:09.257+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"ERROR","time":"2024-05-20T12:35:13.648+0800","caller":"handler/server.go:100","msg":"UploadLog.mysql.CreateLog error:","error":"invalid argument"}
+{"level":"INFO","time":"2024-05-20T12:36:31.463+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-20T12:36:31.477+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-20T12:36:31.478+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-20T12:36:31.478+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-20T12:36:31.479+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-20T12:36:31.480+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"ERROR","time":"2024-05-20T12:36:33.197+0800","caller":"handler/server.go:100","msg":"UploadLog.mysql.CreateLog error:","error":"invalid argument"}
+{"level":"INFO","time":"2024-05-20T12:41:14.144+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-20T12:41:14.161+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-20T12:41:14.162+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-20T12:41:14.162+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-20T12:41:14.163+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-20T12:41:14.165+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"ERROR","time":"2024-05-20T12:41:17.672+0800","caller":"storage/storage.go:56","msg":"UploadLog.file.Write error:","error":"invalid argument"}
+{"level":"ERROR","time":"2024-05-20T12:41:17.675+0800","caller":"handler/server.go:100","msg":"UploadLog.mysql.CreateLog error:","error":"invalid argument"}
+{"level":"INFO","time":"2024-05-20T12:45:30.826+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-20T12:45:30.840+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-20T12:45:30.842+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-20T12:45:30.842+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-20T12:45:30.843+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-20T12:45:30.844+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"ERROR","time":"2024-05-20T12:45:33.180+0800","caller":"storage/storage.go:45","msg":"UploadLog.f.getfile error:","error":"open my-computer/home/work/a.log: The file exists."}
+{"level":"ERROR","time":"2024-05-20T12:45:33.192+0800","caller":"storage/storage.go:60","msg":"UploadLog.file.Write error:","error":"open my-computer/home/work/a.log: The file exists."}
+{"level":"ERROR","time":"2024-05-20T12:45:33.193+0800","caller":"handler/server.go:100","msg":"UploadLog.mysql.CreateLog error:","error":"open my-computer/home/work/a.log: The file exists."}
+{"level":"INFO","time":"2024-05-20T12:46:54.926+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-20T12:46:54.941+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-20T12:46:54.942+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-20T12:46:54.942+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-20T12:46:54.943+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-20T12:46:54.946+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-20T12:52:29.070+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-20T12:52:29.084+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-20T12:52:29.086+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-20T12:52:29.086+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-20T12:52:29.087+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-20T12:52:29.088+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-20T16:14:14.737+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-20T16:14:14.869+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-20T16:14:14.870+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-20T16:14:14.870+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-20T16:14:14.871+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-20T16:14:14.872+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"ERROR","time":"2024-05-20T16:15:12.827+0800","caller":"storage/storage.go:62","msg":"FileStorage.readFile.os.Open error:","error":"open : The system cannot find the file specified."}
+{"level":"ERROR","time":"2024-05-20T16:15:12.827+0800","caller":"storage/storage.go:121","msg":"UploadLog.file.readFile error:","error":"open : The system cannot find the file specified."}
+{"level":"ERROR","time":"2024-05-20T16:15:12.827+0800","caller":"handler/server.go:128","msg":"QueryMetric.mysql.QueryByEndpoint:","error":"open : The system cannot find the file specified."}
+{"level":"ERROR","time":"2024-05-20T16:15:22.972+0800","caller":"storage/storage.go:62","msg":"FileStorage.readFile.os.Open error:","error":"open : The system cannot find the file specified."}
+{"level":"ERROR","time":"2024-05-20T16:15:22.972+0800","caller":"storage/storage.go:121","msg":"UploadLog.file.readFile error:","error":"open : The system cannot find the file specified."}
+{"level":"ERROR","time":"2024-05-20T16:15:22.972+0800","caller":"handler/server.go:128","msg":"QueryMetric.mysql.QueryByEndpoint:","error":"open : The system cannot find the file specified."}
+{"level":"INFO","time":"2024-05-20T16:20:03.501+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-20T16:20:03.520+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-20T16:20:03.522+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-20T16:20:03.522+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-20T16:20:03.523+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-20T16:20:03.524+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"ERROR","time":"2024-05-20T16:20:15.324+0800","caller":"storage/storage.go:64","msg":"FileStorage.readFile.os.Open error:","error":"open : The system cannot find the file specified."}
+{"level":"ERROR","time":"2024-05-20T16:20:15.325+0800","caller":"storage/storage.go:123","msg":"QueryLog.file.readFile error:","error":"open : The system cannot find the file specified."}
+{"level":"ERROR","time":"2024-05-20T16:20:15.325+0800","caller":"handler/server.go:128","msg":"QueryMetric.mysql.QueryByEndpoint:","error":"open : The system cannot find the file specified."}
+{"level":"INFO","time":"2024-05-20T16:21:20.383+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-20T16:21:20.398+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-20T16:21:20.399+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-20T16:21:20.400+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-20T16:21:20.400+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-20T16:21:20.401+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"ERROR","time":"2024-05-20T16:21:24.865+0800","caller":"storage/storage.go:64","msg":"FileStorage.readFile.os.Open error:","error":"open : The system cannot find the file specified."}
+{"level":"ERROR","time":"2024-05-20T16:21:24.865+0800","caller":"storage/storage.go:123","msg":"QueryLog.file.readFile error:","error":"open : The system cannot find the file specified."}
+{"level":"ERROR","time":"2024-05-20T16:21:24.866+0800","caller":"handler/server.go:128","msg":"QueryMetric.mysql.QueryByEndpoint:","error":"open : The system cannot find the file specified."}
+{"level":"INFO","time":"2024-05-20T16:22:15.763+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-20T16:22:15.777+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-20T16:22:15.779+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-20T16:22:15.779+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-20T16:22:15.780+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-20T16:22:15.781+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"ERROR","time":"2024-05-20T16:22:18.875+0800","caller":"storage/storage.go:64","msg":"FileStorage.readFile.os.Open error:","error":"open : The system cannot find the file specified."}
+{"level":"ERROR","time":"2024-05-20T16:22:18.878+0800","caller":"storage/storage.go:124","msg":"QueryLog.file.readFile error:","error":"open : The system cannot find the file specified."}
+{"level":"ERROR","time":"2024-05-20T16:22:18.878+0800","caller":"handler/server.go:128","msg":"QueryMetric.mysql.QueryByEndpoint:","error":"open : The system cannot find the file specified."}
+{"level":"INFO","time":"2024-05-20T16:24:39.007+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-20T16:24:39.021+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-20T16:24:39.023+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-20T16:24:39.023+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-20T16:24:39.024+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-20T16:24:39.026+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-21T10:46:26.994+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-21T10:46:27.043+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-21T10:46:27.044+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-21T10:46:27.044+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-21T10:46:27.045+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-21T10:46:27.046+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}
+{"level":"INFO","time":"2024-05-21T10:50:01.953+0800","caller":"logger/logger.go:37","msg":"Init ZapLogger Success!"}
+{"level":"INFO","time":"2024-05-21T10:50:01.969+0800","caller":"mysql/mysql.go:32","msg":"Init MySQL Success!"}
+{"level":"INFO","time":"2024-05-21T10:50:01.971+0800","caller":"redis/redis.go:32","msg":"Init Redis Success!"}
+{"level":"INFO","time":"2024-05-21T10:50:01.971+0800","caller":"redis/redis.go:38","msg":"Create redisync instance success!"}
+{"level":"INFO","time":"2024-05-21T10:50:01.973+0800","caller":"Server/main.go:70","msg":"Service start at: server_srv-127.0.0.1-8010"}
+{"level":"INFO","time":"2024-05-21T10:50:01.974+0800","caller":"Server/main.go:90","msg":"Serving gRPC-GateWay on http: 0.0.0.0:8011"}

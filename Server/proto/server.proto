@@ -1,0 +1,110 @@
+syntax = "proto3";
+
+package proto;
+
+option go_package = ".;proto";
+
+import "google/api/annotations.proto";
+
+service Server {
+  rpc UploadMetric(UploadMetricReq) returns (UploadMetricResp){
+    option (google.api.http) = {
+      post: "/api/metric/upload"
+      body: "*"
+    };
+  }; //上报数据接口
+
+  rpc QueryMetric(QueryMetricReq) returns (QueryMetricResp) {
+    option (google.api.http) = {
+      get: "/api/metric/query"
+    };
+  }; //查询接口
+
+  rpc UploadLog (UploadLogReq) returns (UploadLogResp) {
+    option (google.api.http) = {
+      post: "/api/log/upload"
+      body: "*"
+    };
+  }; //上报日志
+
+  rpc QueryLog (QueryLogReq) returns (QueryLogResp) {
+    option (google.api.http) = {
+      get: "/api/log/query"
+    };
+  }; //查询日志
+}
+
+message QueryLogResp {
+  CommonResp common = 1;
+  QueryLogRespData data = 2;
+}
+
+message QueryLogRespData {
+  string hostname = 1;
+  string file = 2;
+  repeated string logs = 3;
+}
+
+message QueryLogReq {
+  string hostname = 1;
+  string file = 2;
+}
+
+message UploadLogResp {
+  CommonResp common = 1;
+  string data = 2;
+}
+
+message UploadLogReq {
+  repeated UploadLogBody body = 1;
+}
+
+message UploadLogBody {
+  string hostname = 1;
+  string file = 2;
+  repeated string logs = 3;
+}
+
+message UploadMetricBody {
+  string metric = 1;
+  string endpoint = 2;
+  int64 timestamp = 3;
+  int64 step = 4;
+  float value = 5;
+}
+
+message UploadMetricReq {
+  repeated UploadMetricBody body = 1;
+}
+
+message QueryMetricReq {
+  string endpoint = 1;
+  string metric = 2;
+  int64 start_ts = 3;
+  int64 end_ts = 4;
+}
+
+message CommonResp {
+  int64 code = 1;
+  string message = 2;
+}
+
+message UploadMetricResp {
+  CommonResp common = 1;
+  string data = 2;
+}
+
+message QueryMetricResp {
+  CommonResp common = 1;
+  repeated QueryMetricRespData data = 2;
+}
+
+message QueryMetricRespData {
+  string metric = 1;
+  repeated  MetricValue metricValues = 2;
+}
+
+message MetricValue {
+  int64 timestamp = 1;
+  float value = 2;
+}
